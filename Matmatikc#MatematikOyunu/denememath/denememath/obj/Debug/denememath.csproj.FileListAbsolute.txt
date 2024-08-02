@@ -1,0 +1,40 @@
+C:\Users\Intel\Desktop\aapartmanprogram\denememath\denememath\bin\Debug\denememath.exe.config
+C:\Users\Intel\Desktop\denememath\denememath\bin\Debug\denememath.exe.config
+C:\Users\Intel\Desktop\denememath\denememath\bin\Debug\denememath.exe
+C:\Users\Intel\Desktop\denememath\denememath\bin\Debug\denememath.pdb
+C:\Users\Intel\Desktop\denememath\denememath\obj\Debug\denememath.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\denememath\denememath\obj\Debug\denememath.bolme.resources
+C:\Users\Intel\Desktop\denememath\denememath\obj\Debug\denememath.carpma.resources
+C:\Users\Intel\Desktop\denememath\denememath\obj\Debug\denememath.cıkarma.resources
+C:\Users\Intel\Desktop\denememath\denememath\obj\Debug\denememath.Form1.resources
+C:\Users\Intel\Desktop\denememath\denememath\obj\Debug\denememath.Properties.Resources.resources
+C:\Users\Intel\Desktop\denememath\denememath\obj\Debug\denememath.toplama.resources
+C:\Users\Intel\Desktop\denememath\denememath\obj\Debug\denememath.csproj.GenerateResource.Cache
+C:\Users\Intel\Desktop\denememath\denememath\obj\Debug\denememath.exe
+C:\Users\Intel\Desktop\denememath\denememath\obj\Debug\denememath.pdb
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\bin\Debug\denememath.exe.config
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\obj\Debug\denememath.exe
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\obj\Debug\denememath.pdb
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\bin\Debug\denememath.exe
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\bin\Debug\denememath.pdb
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\obj\Debug\denememath.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\obj\Debug\denememath.bolme.resources
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\obj\Debug\denememath.carpma.resources
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\obj\Debug\denememath.cıkarma.resources
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\obj\Debug\denememath.Form1.resources
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\obj\Debug\denememath.Properties.Resources.resources
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\obj\Debug\denememath.toplama.resources
+C:\Users\Intel\Desktop\Gerekli olanlar\Matmatik\denememath\denememath\obj\Debug\denememath.csproj.GenerateResource.Cache
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\bin\Debug\denememath.exe.config
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\obj\Debug\denememath.exe
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\obj\Debug\denememath.pdb
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\bin\Debug\denememath.exe
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\bin\Debug\denememath.pdb
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\obj\Debug\denememath.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\obj\Debug\denememath.bolme.resources
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\obj\Debug\denememath.carpma.resources
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\obj\Debug\denememath.cıkarma.resources
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\obj\Debug\denememath.Form1.resources
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\obj\Debug\denememath.Properties.Resources.resources
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\obj\Debug\denememath.toplama.resources
+C:\Users\Intel\Desktop\Matmatik\denememath\denememath\obj\Debug\denememath.csproj.GenerateResource.Cache
