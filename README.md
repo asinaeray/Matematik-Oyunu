@@ -1,0 +1,1 @@
+In a math game I created with C#, the player selects an operation area (addition, subtraction, multiplication, division) and tries to increase their score by solving as many correct problems as possible before the timer runs out.
